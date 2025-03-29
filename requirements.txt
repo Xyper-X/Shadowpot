@@ -1,0 +1,12 @@
+flask==3.1.0
+paramiko==3.5.1
+
+'''Libraries used
+            flask
+            paramiko
+            argparse
+            multiprocessing
+            logging 
+            socket
+            threading
+            '''
